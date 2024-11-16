@@ -1,4 +1,4 @@
-Linea Safe Delegation using Metamask Delegation Toolkit
+#Linea Safe Delegation using Metamask Delegation Toolkit#
 
 Deployed Contract addresses
 The following are the contract addresses for the Delegation Framework v1.1.0, as used by this version of the toolkit.
