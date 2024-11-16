@@ -1,16 +1,16 @@
 # Linea Safe Delegation using Metamask Delegation Toolkit
 
-Deployed Contract addresses
+## Deployed Contract addresses
 The following are the contract addresses for the Delegation Framework v1.1.0, as used by this version of the toolkit.
 
-Contracts:
+## Contracts:
 EntryPoint: 0x0000000071727De22E5E9d8BAf0edAc6f37da032
 SimpleFactory: 0x6ff518884f21168c30c58CB21184D6AdBC18Ad90
 DelegationManager: 0x56D56e07e3d6Ee5a24e30203A37a0a460f42D7A3
 MultiSigDeleGatorImpl: 0xd1f421EDbA5e3FA9efe3874827114b20C5BEC40C
 HybridDeleGatorImpl: 0x941f3a016F8726d5643Ce62452d0D78492D42b42
 
-Caveat enforcers:
+## Caveat enforcers:
 AllowedCalldataEnforcer: 0xff71d60f3208469cBCE0859717B5198042DCB3F3
 AllowedMethodsEnforcer: 0xe32C2561792e8446Abe73B9f557B881C13906186
 AllowedTargetsEnforcer: 0x06aaE4c67EEA95277c46Bf79b1583d4a01772D22
